@@ -20,13 +20,16 @@ jobs:
           fetch-depth: 0 # We need full history to get commit messages
 
       - name: Install Chinese fonts and Typst
+        env:
+          TYPST_VERSION: "0.15.1"
+        shell: bash
         run: |
           # Install minimal Chinese fonts (faster)
           sudo apt-get update
           sudo apt-get install -y fonts-wqy-zenhei
           
-          # Install Typst
-          curl -fsSL https://github.com/typst/typst/releases/latest/download/typst-x86_64-unknown-linux-musl.tar.xz | tar -xJ
+          # Keep the compiler version aligned with the tested template dependencies.
+          curl -fsSL "https://github.com/typst/typst/releases/download/v${TYPST_VERSION}/typst-x86_64-unknown-linux-musl.tar.xz" | tar -xJ
           sudo mv typst-x86_64-unknown-linux-musl/typst /usr/local/bin/
           typst --version
 

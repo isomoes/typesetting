@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [v1.4.3] - 2026-09-17
+
+### Fixed
+- Updated CeTZ and Fletcher in both presentation templates to fix PDF compilation with Typst 0.15.1
+- Removed the unused Docsify CLI installation that prevented documentation deployment
+
+### Changed
+- Pinned the release workflow to the tested Typst 0.15.1 compiler
+
 ## [v1.4.2] - 2026-09-17
 
 ### Changed

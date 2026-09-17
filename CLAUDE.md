@@ -87,8 +87,8 @@ typesetting/
 - `@preview/basic-document-props:0.1.0` - Document properties package (documents/note.typ, academic/review.typ)
 - `@preview/bamdone-rebuttal:0.1.1` - Academic rebuttal package (academic/response.typ)
 - `@preview/touying:0.6.1` - Presentation framework (presentations/slide.typ)
-- `@preview/cetz:0.3.2` - Drawing package for diagrams (presentations/slide.typ)
-- `@preview/fletcher:0.5.5` - Flowchart diagrams (presentations/slide.typ)
+- `@preview/cetz:0.3.4` - Drawing package for diagrams (presentations/slide.typ)
+- `@preview/fletcher:0.5.8` - Flowchart diagrams (presentations/slide.typ)
 - `@preview/theorion:0.3.2` - Mathematical theorems (presentations/slide.typ)
 
 ## Template Features
