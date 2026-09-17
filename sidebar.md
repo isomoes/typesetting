@@ -2,4 +2,4 @@
 - [Getting Started](getting-started.md)
 - [Usage Guide](usage.md)
 - [Templates](templates.md)
-- [Downloads](https://github.com/jiahaoxiang2000/typesetting/releases)
+- [Downloads](https://github.com/isomoes/typesetting/releases)

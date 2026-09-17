@@ -66,7 +66,7 @@ Example usage:
 
 #show: note.with(
   title: "中文笔记示例",
-  author: "isomo",
+  author: "isomoes",
 )
 
 = 引言
@@ -104,7 +104,7 @@ Example usage:
 
 #show: slide.with(
   title: "幻灯片演示",
-  author: "isomo",
+  author: "isomoes",
   date: datetime.today(),
 )
 
@@ -133,4 +133,4 @@ Each template can be customized by:
 ## Example PDFs
 
 > [!TIP]
-> You can view pre-compiled examples of each template by visiting the [GitHub Releases page](https://github.com/jiahaoxiang2000/typesetting/releases), where you'll find PDF examples of all templates.
+> You can view pre-compiled examples of each template by visiting the [GitHub Releases page](https://github.com/isomoes/typesetting/releases), where you'll find PDF examples of all templates.
