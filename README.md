@@ -6,7 +6,7 @@ A professional document preparation and typesetting system based on Typst.
 
 This project provides tools and templates for high-quality document typesetting using Typst. It's designed for academic papers, technical documentation, presentations, and other professional documents requiring precise formatting and layout.
 
-You can view example PDF files without having to compile them yourself by visiting our [GitHub Releases page](https://github.com/jiahaoxiang2000/typesetting/releases), where you'll find pre-compiled PDF examples of various document types.
+You can view example PDF files without having to compile them yourself by visiting our [GitHub Releases page](https://github.com/isomoes/typesetting/releases), where you'll find pre-compiled PDF examples of various document types.
 
 ## Features
 
@@ -31,7 +31,7 @@ You can view example PDF files without having to compile them yourself by visiti
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/jiahaoxiang2000/typesetting.git
+   git clone https://github.com/isomoes/typesetting.git
    cd typesetting
    ```
 
@@ -73,7 +73,7 @@ done
 
 ## Online Documentation
 
-Check out our [online documentation](https://jiahaoxiang2000.github.io/typesetting/) for detailed usage instructions and examples.
+Check out our [online documentation](https://isomoes.github.io/typesetting/) for detailed usage instructions and examples.
 
 ## Directory Structure
 

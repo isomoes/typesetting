@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [v1.4.2] - 2026-09-17
+
+### Changed
+- Standardized usernames to `isomoes` across templates, documentation, GitHub links, release configuration, and the submodule URL
+
 ## [v1.4.1] - 2025-10-05
 
 ### Added

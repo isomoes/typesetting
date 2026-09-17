@@ -44,14 +44,14 @@ jobs:
             echo "RELEASE_NOTES<<EOF" >> $GITHUB_ENV
             echo "## Changes since $PREVIOUS_TAG" >> $GITHUB_ENV
             echo "" >> $GITHUB_ENV
-            git log --pretty=format:"* %s (%an) [%h](https://github.com/jiahaoxiang2000/typesetting/commit/%H)" $PREVIOUS_TAG..$CURRENT_TAG >> $GITHUB_ENV
+            git log --pretty=format:"* %s (%an) [%h](https://github.com/isomoes/typesetting/commit/%H)" $PREVIOUS_TAG..$CURRENT_TAG >> $GITHUB_ENV
             echo "" >> $GITHUB_ENV
             echo "EOF" >> $GITHUB_ENV
           else
             echo "RELEASE_NOTES<<EOF" >> $GITHUB_ENV
             echo "## Initial Release" >> $GITHUB_ENV
             echo "" >> $GITHUB_ENV
-            git log --pretty=format:"* %s (%an) [%h](https://github.com/jiahaoxiang2000/typesetting/commit/%H)" >> $GITHUB_ENV
+            git log --pretty=format:"* %s (%an) [%h](https://github.com/isomoes/typesetting/commit/%H)" >> $GITHUB_ENV
             echo "" >> $GITHUB_ENV
             echo "EOF" >> $GITHUB_ENV
           fi

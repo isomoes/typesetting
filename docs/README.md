@@ -33,18 +33,18 @@ View the compiled examples from our Typst templates:
 #### 📄 Note Template
 - **Purpose**: Simple notes and documentation
 - **Features**: Clean typography, mathematical formulas, Chinese support
-- [View note.pdf](https://github.com/jiahaoxiang2000/typesetting/releases/download/v1.1.1/note.pdf) | [Download](https://github.com/jiahaoxiang2000/typesetting/releases/download/v1.1.1/note.pdf)
+- [View note.pdf](https://github.com/isomoes/typesetting/releases/download/v1.1.1/note.pdf) | [Download](https://github.com/isomoes/typesetting/releases/download/v1.1.1/note.pdf)
 
 #### 📊 Report Template  
 - **Purpose**: Professional reports and academic papers
 - **Features**: Structured layout, abstracts, bibliography support
-- [View report.pdf](https://github.com/jiahaoxiang2000/typesetting/releases/download/v1.1.1/report.pdf) | [Download](https://github.com/jiahaoxiang2000/typesetting/releases/download/v1.1.1/report.pdf)
+- [View report.pdf](https://github.com/isomoes/typesetting/releases/download/v1.1.1/report.pdf) | [Download](https://github.com/isomoes/typesetting/releases/download/v1.1.1/report.pdf)
 
 #### 🎯 Slide Template
 - **Purpose**: Presentations and slideshows
 - **Features**: Modern design, mathematical notation, Chinese typography
-- [View slide.pdf](https://github.com/jiahaoxiang2000/typesetting/releases/download/v1.1.1/slide.pdf) | [Download](https://github.com/jiahaoxiang2000/typesetting/releases/download/v1.1.1/slide.pdf)
+- [View slide.pdf](https://github.com/isomoes/typesetting/releases/download/v1.1.1/slide.pdf) | [Download](https://github.com/isomoes/typesetting/releases/download/v1.1.1/slide.pdf)
 
 ### Downloads
 
-Download example PDFs from [GitHub Releases](https://github.com/jiahaoxiang2000/typesetting/releases).
+Download example PDFs from [GitHub Releases](https://github.com/isomoes/typesetting/releases).
